@@ -27,4 +27,9 @@ let countrys = ["Peru","Canada","Japon","USA","Colombia"]
 let pets = ["Gato","Perro","Loro"]
 let info = {nombre:'Martin', edad:"10"}
 
+//OPERAODRES NUMERICOS
 
+// mayor >
+// menor <
+// and &&
+// or ||

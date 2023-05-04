@@ -33,3 +33,4 @@ let info = {nombre:'Martin', edad:"10"}
 // menor <
 // and &&
 // or ||
+//  todo lo contrario !
